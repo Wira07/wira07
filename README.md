@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wira Sukma Saputra</h1>
-<h3 align="center">ntroduce I am a student who is studying Informatics Engineering at the S1 level at one of the campuses in my area</h3>
+<h3 align="center">introduce I am a student who is studying Informatics Engineering at the S1 level at one of the campuses in my area</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
