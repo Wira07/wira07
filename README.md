@@ -1,6 +1,6 @@
 # Hi there, I'm Wira Sukma Saputra   👋
 
-### and I'm Frontend Develover and I'm UI UX Design
+### And I'm Frontend Develover and I'm UI UX Design
 <p align="center"><br /><br />
    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wira07&layout=compact&langs_count=8&theme=algolia"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Wira07&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" />
