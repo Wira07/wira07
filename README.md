@@ -2,7 +2,6 @@
 
 ### and here is my stats
 <p align="center"><br /><br />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=Wira07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wira07&layout=compact&langs_count=8&theme=algolia"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Wira07&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wira07&theme=monokai"/>
