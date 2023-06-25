@@ -2,7 +2,7 @@
 # Hi, I'm Wira Sukma Saputra 👋
 
 ## 🚀 About Me
-Perkenalkan Saya seorang mahasiswa yang sedang menempuh pendidikan Teknik Informatika pada jenjang S1 di salah satu kampus di daerah saya dan saya memiliki keahlian dibidang UI / UX Design dan Slicing dibidang Frontend Develover serta memiliki dasar cyber security
+Perkenalkan Saya seorang mahasiswa yang sedang menempuh pendidikan Teknik Informatika pada jenjang S1 di salah satu kampus di daerah saya dan saya memiliki kemampuan dibidang UI / UX Design dan Slicing dibidang Frontend Develover serta memiliki dasar Cyber Security
 
 ## 🛠 Skills
 HTML, CSS, Javascript, PHP, Bootstarp, Figma, Photoshop
