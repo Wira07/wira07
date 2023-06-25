@@ -8,6 +8,6 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mirwansyahs alt=mirwansyahs /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mirwansyahs&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/mirwansyahs/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Wira07s&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/Wira07/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirwansyahs&layout=compact&theme=algolia)](https://github.com/mirwansyahs/github-readme-stats)
