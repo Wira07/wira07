@@ -5,7 +5,7 @@
 Perkenalkan Saya seorang mahasiswa yang sedang menempuh pendidikan Teknik Informatika pada jenjang S1 di salah satu kampus di daerah saya dan saya sedang belajar untuk menjadi frontend developer
 
 ## 🛠 Skills
-HTML, CSS, Javascript, PHP, Figma, Photoshop
+HTML, CSS, Javascript, PHP, Bootstarp, Figma, Photoshop
 
 
 ## 🔗 Links
