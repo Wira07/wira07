@@ -2,7 +2,7 @@
 # Hi, I'm Wira Sukma Saputra 👋
 
 ## 🚀 About Me
-Perkenalkan Saya seorang mahasiswa yang sedang menempuh pendidikan Teknik Informatika pada jenjang S1 di salah satu kampus di daerah saya dan saya sedang belajar untuk menjadi frontend developer
+Perkenalkan Saya seorang mahasiswa yang sedang menempuh pendidikan Teknik Informatika pada jenjang S1 di salah satu kampus di daerah saya dan saya memiliki keahlian dibidang UI / UX Design dan Slicing dibidang Frontend Develover serta memiliki dasar cyber security
 
 ## 🛠 Skills
 HTML, CSS, Javascript, PHP, Bootstarp, Figma, Photoshop
@@ -28,5 +28,5 @@ Belajar Aja Dulu Jagonya Belakangan
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](image/Juara.jpg)
 
